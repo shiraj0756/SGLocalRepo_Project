@@ -1,2 +1,2 @@
-This is file from local to Remote for creatig Repo from locals <AK>, updating
+This is file from local to Remote for creatig Repo from locals <AK>, updating, ak update on remote direct
 Second Line
